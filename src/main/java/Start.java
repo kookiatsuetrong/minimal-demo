@@ -3,3 +3,9 @@ class Start {
 		System.out.println("Welcome to Java");
 	}
 }
+
+class Example {
+	int sum(int a, int b) {
+		return a + b;
+	}
+}
